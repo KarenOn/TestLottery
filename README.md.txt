@@ -31,3 +31,7 @@ EL programa se ejecuta escribiendo las siguientes líneas en una terminal:
 Tiene instalado Nodemon, un paquete para escucha automático, asi que tambien puede ejecutarse con:
     npx nodemon index.js
 
+Para ver los datos, puede abrir Postman y crear un nuevo request escribiendo:
+    http://localhost:3023/getLoterias
+
+El puerto 3023 es el puerto que se le ha asignado.
